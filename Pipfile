@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 pywin32 = "306"
 customtkinter = "5.2.1"
+packaging = "23.2"
 
 [dev-packages]
 
